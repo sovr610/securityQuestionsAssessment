@@ -1,0 +1,17 @@
+C:\Users\Parker Bidigare\Desktop\securityQuestionPrompter\securityQuestionPrompter\bin\Debug\net6.0\securityQuestionPrompter.exe
+C:\Users\Parker Bidigare\Desktop\securityQuestionPrompter\securityQuestionPrompter\bin\Debug\net6.0\securityQuestionPrompter.deps.json
+C:\Users\Parker Bidigare\Desktop\securityQuestionPrompter\securityQuestionPrompter\bin\Debug\net6.0\securityQuestionPrompter.runtimeconfig.json
+C:\Users\Parker Bidigare\Desktop\securityQuestionPrompter\securityQuestionPrompter\bin\Debug\net6.0\securityQuestionPrompter.dll
+C:\Users\Parker Bidigare\Desktop\securityQuestionPrompter\securityQuestionPrompter\bin\Debug\net6.0\securityQuestionPrompter.pdb
+C:\Users\Parker Bidigare\Desktop\securityQuestionPrompter\securityQuestionPrompter\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Parker Bidigare\Desktop\securityQuestionPrompter\securityQuestionPrompter\obj\Debug\net6.0\securityQuestionPrompter.csproj.AssemblyReference.cache
+C:\Users\Parker Bidigare\Desktop\securityQuestionPrompter\securityQuestionPrompter\obj\Debug\net6.0\securityQuestionPrompter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parker Bidigare\Desktop\securityQuestionPrompter\securityQuestionPrompter\obj\Debug\net6.0\securityQuestionPrompter.AssemblyInfoInputs.cache
+C:\Users\Parker Bidigare\Desktop\securityQuestionPrompter\securityQuestionPrompter\obj\Debug\net6.0\securityQuestionPrompter.AssemblyInfo.cs
+C:\Users\Parker Bidigare\Desktop\securityQuestionPrompter\securityQuestionPrompter\obj\Debug\net6.0\securityQuestionPrompter.csproj.CoreCompileInputs.cache
+C:\Users\Parker Bidigare\Desktop\securityQuestionPrompter\securityQuestionPrompter\obj\Debug\net6.0\securityQuestionPrompter.csproj.CopyComplete
+C:\Users\Parker Bidigare\Desktop\securityQuestionPrompter\securityQuestionPrompter\obj\Debug\net6.0\securityQuestionPrompter.dll
+C:\Users\Parker Bidigare\Desktop\securityQuestionPrompter\securityQuestionPrompter\obj\Debug\net6.0\refint\securityQuestionPrompter.dll
+C:\Users\Parker Bidigare\Desktop\securityQuestionPrompter\securityQuestionPrompter\obj\Debug\net6.0\securityQuestionPrompter.pdb
+C:\Users\Parker Bidigare\Desktop\securityQuestionPrompter\securityQuestionPrompter\obj\Debug\net6.0\securityQuestionPrompter.genruntimeconfig.cache
+C:\Users\Parker Bidigare\Desktop\securityQuestionPrompter\securityQuestionPrompter\obj\Debug\net6.0\ref\securityQuestionPrompter.dll
